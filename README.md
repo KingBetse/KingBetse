@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Betselot Bezuayehu</h1>
-<h3 align="center">As a passionate full stack developer from Ethiopia, I am driven to contribute my skills and expertise to the dynamic field of web and mobile application development. With a strong foundation in front-end and back-end technologies</h3>
+<h3 align="center">I am passionate full stack developer from Ethiopia and I am driven to contribute my skills and expertise to the dynamic field of web and mobile application development. With a strong foundation in front-end and back-end technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kingbetse&label=Profile%20views&color=0e75b6&style=flat" alt="kingbetse" /> </p>
 
